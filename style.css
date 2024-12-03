@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#text {
+    font-family: "Edu AU VIC WA NT Pre", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    line-height:50px;
+}
+#text2{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  word-spacing: 20px;
+
+}
